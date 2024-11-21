@@ -44,6 +44,7 @@ You can change the model according to your language, machine configuration, and 
    - Ask about **weather**: "What is the weather today?"
    - Ask for **news**: "What's the latest news?"
    - **Open applications**: "Open Chrome", "Open Notepad"....
-And can ask or talk about different topics with her. The chatbot will respond and perform actions using voice.
+**And can ask or talk about different topics with her.**
+**The chatbot will respond and perform actions using voice.**
 
 
